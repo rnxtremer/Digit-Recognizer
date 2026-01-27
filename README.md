@@ -83,5 +83,6 @@ digit-recognizer-scratch/
 
 ---
 
-!(Figure_2.png)
+![Result](Figure_2.png)
+
 
