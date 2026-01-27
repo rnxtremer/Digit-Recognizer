@@ -83,4 +83,5 @@ digit-recognizer-scratch/
 
 ---
 
-Figure_2.png
+!(Figure_2.png)
+
