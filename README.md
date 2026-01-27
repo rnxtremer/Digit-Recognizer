@@ -82,3 +82,5 @@ digit-recognizer-scratch/
 - [ ] Deploy as FastAPI service
 
 ---
+
+Figure_2.png
