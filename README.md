@@ -38,8 +38,8 @@ python src/train.py
 **Expected Results:**
 
 ```
-Epoch 20/20 - Loss: 0.1234 - Acc: 0.9821 - Val Acc: 0.9753
-Test Accuracy: 97.45%
+Epoch 20/20 - Loss: 0.0175 - Acc: 0.9967 - Val Acc: 0.9753
+Test Accuracy: 97.43%
 ```
 
 ## 📁 **Project Structure**
@@ -68,7 +68,7 @@ digit-recognizer-scratch/
 ## 📈 **Performance**
 
 ```
-✅ Test Accuracy: 97.5% (20 epochs)
+✅ Test Accuracy: 97.4% (20 epochs)
 ✅ Training Time: ~3 mins (CPU)
 ✅ Inference: 1000 imgs/sec
 ✅ Model Size: 400KB
@@ -84,5 +84,6 @@ digit-recognizer-scratch/
 ---
 
 ![Result](Figure_2.png)
+
 
 
